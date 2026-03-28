@@ -54,6 +54,7 @@
     fi:      "Androidista tulee suljettu alusta",
     hu:      "Az Android egy lezárt platform lesz",
     vi:      "Android sẽ trở thành một hệ điều hành đóng",
+    bg:      "До заключването на Android като платформа остават"
   };
 
   // ── Parse query parameters from the script's own src URL ──────────────
